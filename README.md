@@ -1,4 +1,4 @@
-<h1 align="center">Viper: An Efficient Hybrid PMem-DRAM Key-Value Store</h1>
+<h1 align="center">NAPEH: An Asynchronous and NUMA-Aware KV Store for Non-Volatile Memory Architectures</h1>
 
 ### Using Napeh
 
@@ -40,8 +40,6 @@ Napeh depends on [concurrentqueue 1.0.3](https://github.com/cameron314/concurren
 Thanks for the work of Viper (https://hpi.de/fileadmin/user_upload/fachgebiete/rabl/publications/2021/viper_vldb21.pdf),
 which enable our work implement based on the Viper storage framework and achieves IO throughput performance optimization
 by leveraging the NUMA_AWARE NVM data allocation strategy and the method of merging small-scale metadata operations.
-
-
 
 ### Cite Our Work
 
